@@ -1,10 +1,12 @@
-import React from 'react'
+import React, { Fragment } from 'react'
 
-const App = () => {
+
+const App = (props) => {
   return (
-    <h1>React development has begun!</h1>
+    <div>
+      app
+    </div>
   )
 }
-
 export default App
 
